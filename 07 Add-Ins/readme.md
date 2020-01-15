@@ -10,7 +10,7 @@
 
 #### Publish Add-In
 
-![Publish](_Images/publish.png)
+![Publish](_Images/Publish.png)
 
 #### Deploy Provider Hosted App Web
 
